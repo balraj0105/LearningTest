@@ -1,0 +1,9 @@
+To resolve this issue, do the followings 
+1. login to your GitHub account
+2. go to https://github.com/settings/tokens
+3. click on "Generate new token"
+4. make necessary selections (but must select repo)
+5. click on "save"
+6. System will have a token 
+7. use this token instead of a password in the eclipse or other tools you are using
+8. Now push your code from Github and it will work.
